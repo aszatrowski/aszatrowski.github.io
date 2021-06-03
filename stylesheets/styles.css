@@ -1,0 +1,168 @@
+html {
+  /*width: 80%;*/
+  margin-top: 40px;
+  margin-right: 50px;
+  margin-left: 50px;
+  background: #f1f1f1;
+}
+
+body {
+  background: #ffffff;
+  color: #444444;
+  width: 90%;
+  height: 1450px;
+  padding: 30px;
+}
+
+a {
+  font-family: inherit;
+  font-size: inherit;
+  text-decoration: inherit;
+  text-decoration-color: inherit;
+  color: inherit;
+}
+
+a:visited{
+  font-family: inherit;
+  font-size: inherit;
+  text-decoration: inherit;
+  text-decoration-color: inherit;
+  color: inherit;
+}
+
+strong {
+  color:rgb(203, 9, 54)
+}
+
+.feature-img {
+  width: 97.78%;
+  height: 100px;
+  padding-left: 2%;
+  padding-top: 0;
+  /*background-image: linear-gradient(#A6A1AF, rgb(29, 41, 97));*/
+  /*url("assets/IMG_3869.jpg");*/
+  background-color: rgb(29, 41, 97);
+  /* background-position: center center; */
+  /* background-repeat: no-repeat; */
+}
+
+h1 {
+  font-family: futura-pt;
+  font-size: 80px;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+#homepage-nameplate {
+  text-align: bottom;
+  text-decoration: none;
+  margin-left: 0;
+}
+
+#content {
+    padding-top: 2.5%;
+}
+
+#column1 {
+  /* padding-left: 2%; */
+  /* padding-top: 2%; */
+  float: left;
+
+  width: 65%;
+  margin-right: 1.25%
+}
+
+#column2 {
+  float: left;
+  /* background-color: rgb(29, 41, 97); */
+  height: 500px;
+
+  width: 32.25%;
+  margin-left: 1.25%;
+
+}
+
+.highlight {
+    border-style: solid;
+    border-radius: 2px;
+    border-color: rgb(203, 9, 54);
+
+    padding: 5px;
+    margin-bottom: 10px;
+
+    font-size: 18px;
+    font-family: helvetica;
+    font-weight: 200;
+    /* font-style: italic; */
+    line-height: 1.5
+
+}
+
+.sidebar-box {
+    background-color: rgb(203, 9, 54);
+    color: #FFFFFF;
+    padding: 5%;
+    margin-top: 0%;
+    margin-bottom: 20px;
+}
+
+.heading {
+  /* font-size: 30px; */
+  font-family: helvetica, sans-serif;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.inline-data {
+  float: left;
+  padding-right: 2%;
+}
+
+.accent-text {
+    font-size: 14px;
+    font-family: helvetica;
+    font-weight: 500;
+    font-style: italic;
+    color: rgb(203, 9, 54);
+}
+
+.container {
+  /* padding-left: 12px; */
+}
+
+
+.info-text {
+    font-size: 16px;
+    font-family: helvetica;
+    font-weight: 300;
+    text-decoration-color: rgb(203, 9, 54);
+}
+
+
+.email-link {
+  font-size: 16px;
+  font-family: helvetica;
+  color: inherit;
+  text-decoration: underline;
+  /* text-decoration-color: rgb(203, 9, 54); */
+}
+.item-header {
+    font-family: helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.institution-img {
+    width: 40px;
+    height: 51px;
+    vertical-align: top
