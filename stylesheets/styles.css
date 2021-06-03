@@ -47,20 +47,28 @@ strong {
 }
 
 h1 {
-  font-family: futura-pt;
-  font-size: 80px;
-  font-weight: 500;
-  font-style: italic;
-  color: #ffffff;
-  text-decoration: none;
+    font-family: futura-pt;
+    font-size: 80px;
+    font-weight: 500;
+    font-style: italic;
+    color: #ffffff;
+    text-decoration: none;
 }
 
 h2 {
     font-size: 30px;
+
+    font-family: helvetica, sans-serif;
+    font-weight: 600;
+    margin-bottom: 20px;
 }
 
 h3 {
     font-size: 20px;
+
+    font-family: helvetica, sans-serif;
+    font-weight: 600;
+    margin-bottom: 20px;
 }
 
 #homepage-nameplate {
@@ -113,9 +121,7 @@ h3 {
 }
 
 .heading {
-  font-family: helvetica, sans-serif;
-  font-weight: 600;
-  margin-bottom: 20px;
+    display:inline;
 }
 
 
@@ -161,4 +167,9 @@ h3 {
     width: 40%;
     margin: 0 auto;
     text-align: center;
+}
+
+.c1-container {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
