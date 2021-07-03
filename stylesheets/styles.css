@@ -10,7 +10,7 @@ body {
   background: #ffffff;
   color: #444444;
   width: 90%;
-  height: 1600px;
+  height: 1800px;
   padding: 30px;
   margin: 0 auto;
 }
@@ -57,6 +57,7 @@ h1 {
 
 h2 {
     font-size: 30px;
+    color: #000000;
 }
 
 h3 {
@@ -124,7 +125,7 @@ h3 {
     font-family: helvetica;
     font-weight: 500;
     font-style: italic;
-    color: rgb(203, 9, 54);
+    color: rgb(29, 41, 97);
 }
 
 .info-text {
