@@ -142,6 +142,7 @@ h3 {
   font-family: helvetica;
   color: inherit;
   text-decoration: underline;
+  word-break: break-all;
 }
 
 .item-header {

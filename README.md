@@ -1,12 +1,7 @@
 # Austin Szatrowski's Digital Resume
-*Last updated Jun 2 2021 @ 21:11 EST*
+*Last updated Jul 3 2021 @ 13:50 EST*
 
+Originally conceived as a pet coding project, this thing has grown into my primary professional resume, and so far I'm really happy with how it has turned out.
 
-## Features & Fixes:
-* Some sort of JS thing to track paper citations
-* PDF download link
-* Make [main.js](scripts/main.js) more efficient with functions
-* Add clear show/hide button to each heading
-  * Move ids to show/hide button, make headings pure `<h2>`
-  * Figure out how to display inline (`float:left`?)
-* Make page length adaptable to open sections
+## Ongoing
+* Figure out a way to faithfully transfer this to a PDF or to print
