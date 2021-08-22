@@ -172,3 +172,34 @@ h3 {
     margin: 0 auto;
     text-align: center;
 }
+
+.chart_entry {
+  margin: 5%;
+  background-color: rgb(29, 41, 97);
+}
+
+.thumbnail {
+  height: 200px;
+  width: 200px;
+}
+
+.albuminfo {
+  background-color: #978f8f;
+  text-align: center;
+  padding: 1%;
+}
+
+.artistname {
+  color: #000000;
+  font-size: 16px;
+  font-family: helvetica;
+  font-weight: 500;
+  font-style: bold;
+}
+
+.albumname {
+  font-size: 16px;
+  font-family: helvetica;
+  font-weight: 200;
+  font-style: oblique;
+}
